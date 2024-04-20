@@ -1,0 +1,2 @@
+# Airflow for Investor Watch Pipeline
+This is a companion project to Investor Watch. It is a repository for the Airflow instance used in that project. This project can be cloned, but it will not run because I did not push all of the files necessary to execute it for security reasons.  The files of interest here include the files in the **DAGS** directory as well as the dockerfile and docker-compose.yml files.

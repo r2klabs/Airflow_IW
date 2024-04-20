@@ -1,0 +1,8 @@
+snowflake_config.json
+logs/
+airflow-webserver.pid
+airflow.cfg
+airflow.db
+polygon.log
+standalone_admin_password.txt
+webserver_config.py
